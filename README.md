@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josuehmtz
-- 👀 I’m interested to
+- 👀 I’m interested in continuing to learn
 - 🌱 I’m currently learning React
 - 📫 How to reach me: 
 -     jhiram.alvz@gmail.com
